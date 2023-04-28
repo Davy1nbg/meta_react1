@@ -1,5 +1,5 @@
 {
-  "name": "react1_meta",
+  "name": "r1_meta",
   "version": "1.0.0",
   "description": "This Course (React Basics) is the fith Step to become a React Developer",
   "main": "index.js",
@@ -9,7 +9,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "myapp1": "^1.0.2",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-app": "^1.1.2",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.10.0"
   }
 }
